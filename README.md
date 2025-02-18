@@ -1,4 +1,6 @@
 # Hi, I'm Carlos Egana! 👋
+![Carlos Egana Banner](https://carlosegana.carrd.co/#one)
+
 
 A passionate Data Science enthusiast with a solid foundation in Information Systems and Control Management Engineering. I specialize in data analysis, process optimization, and Business Intelligence. Fluent in both English and Spanish, I thrive in fast-paced environments and excel at quickly adopting new technologies to drive insights and operational improvements.
 
