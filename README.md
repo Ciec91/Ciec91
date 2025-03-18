@@ -11,7 +11,7 @@ Currently expanding my expertise in Data Science and Machine Learning through ce
 
 ## 🛠️ Skills & Technologies
 
-**Languages:** Python, R, SQL  
+**Languages:** Python, SQL  
 **Tools & Technologies:**  
 - **Data Science & Machine Learning:** Pandas, NumPy, Scikit-Learn, XGBoost  
 - **Data Wrangling & ETL:** Pandas, Alteryx  
