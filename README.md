@@ -24,6 +24,7 @@ Currently expanding my expertise in Data Science and Machine Learning through ce
 
 ## 📜 Certifications
 
+- **Cybersecurity (CC)** — ISC2 (July 2025)  
 - **Digital Transformation Management** — Arizona State University, W.P. Carey School of Business (September 2024)  
 - **Data Science Practitioners** — IBM (May 2024)  
 - **Artificial Intelligence Practitioners** — IBM (May 2024)  
