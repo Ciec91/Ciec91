@@ -8,7 +8,7 @@ I’m a **Data Scientist** with a solid background in **Information Systems and 
 I specialize in **data analysis, process optimization, and business intelligence** — helping organizations make **data-driven decisions** that drive growth and efficiency.  
 
 Bilingual in **English** and **Spanish**, I thrive in **fast-paced environments**, quickly adapt to new technologies, and enjoy tackling complex problems through analytical thinking.  
-Currently, I’m expanding my expertise in **Data Science**, **Machine Learning**, and **Cybersecurity** through hands-on projects and certifications.  
+Currently, I’m **expanding my expertise in Cybersecurity** alongside **Data Science** and **Machine Learning** through hands-on projects and professional certifications.  
 
 ---
 
@@ -63,7 +63,7 @@ Currently, I’m expanding my expertise in **Data Science**, **Machine Learning*
 
 ## 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-egana)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CarlosEgana)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosegana)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ciec91)  
 [![Email](https://img.shields.io/badge/Email-carlos.egana%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlos.egana@gmail.com)
 
