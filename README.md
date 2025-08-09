@@ -11,7 +11,7 @@ Bilingual in **English** and **Spanish**, I thrive in **fast-paced environments*
 Currently, I’m **expanding my expertise in Cybersecurity** alongside **Data Science** and **Machine Learning** through hands-on projects and professional certifications.  
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ciec91&layout=compact)
+
 ## 🛠 Skills & Technologies
 
 ### 💻 Programming & Query Languages
