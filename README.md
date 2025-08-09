@@ -6,9 +6,8 @@
 A passionate Data Science enthusiast with a solid foundation in Information Systems and Control Management Engineering. I specialize in data analysis, process optimization, and Business Intelligence. Fluent in both English and Spanish, I thrive in fast-paced environments and excel at quickly adopting new technologies to drive insights and operational improvements.
 
 Currently expanding my expertise in Data Science and Machine Learning through certifications and hands-on projects. Excited to explore new opportunities and bring my skills to the table!
-
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ---
-https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white
 ## 🛠️ Skills & Technologies
 
 **Languages:** Python, SQL  
