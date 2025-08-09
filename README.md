@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Carlos Egana
 
-![Carlos Egana Banner](https://drive.google.com/uc?export=view&id=1M-ErbMd-KHDy9__-HaObOvsKtur8wRUy)
+![Carlos Egana Banner](https://github.com/user-attachments/assets/b21e8eaf-9ac4-42f3-9e81-07e27f6385be)
 
 ## 🚀 About Me
 
