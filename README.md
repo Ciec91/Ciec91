@@ -8,7 +8,7 @@ A passionate Data Science enthusiast with a solid foundation in Information Syst
 Currently expanding my expertise in Data Science and Machine Learning through certifications and hands-on projects. Excited to explore new opportunities and bring my skills to the table!
 
 ---
-
+https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white
 ## 🛠️ Skills & Technologies
 
 **Languages:** Python, SQL  
